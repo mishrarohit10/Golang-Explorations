@@ -24,5 +24,5 @@ func main() {
 	// can modify the value via pointer as well
 	*pointer = 34
 
-	fmt.Println("Modified value via pointer -> ", pointer)
+	fmt.Println("Modified value via pointer -> ", number)
 }
